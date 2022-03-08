@@ -3,7 +3,7 @@ My name is Nasim.
 
 🔭 I’m currently a post-doctoral fellow at University of Toronto. 
 
-🌱 I work with two amazing team at UofT and Cyclics Inc. on using Graph Convolusion Network for protein function prediction. 
+🌱 I work with two amazing teams at UofT and Cyclics Inc. on using Graph Convolution Networks for protein function prediction. 
 
 ⚡ Fun fact: I love art! 
 
