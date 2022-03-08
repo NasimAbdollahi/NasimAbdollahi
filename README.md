@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Nasim. 
+
+🔭 I’m currently a post-doctoral fellow at University of Toronto. 
+
+🌱 I work with two amazing team at UofT and Cyclics Inc. on using Graph Convolusion Network for protein function prediction. 
+
+⚡ Fun fact: I love art! 
 
 <!--
 **NasimAbdollahi/NasimAbdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
