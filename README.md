@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nasim. 
+My name is Nasim, 
 
 👩🏻‍💻 I’m currently a post-doctoral fellow at University of Toronto. 
 
