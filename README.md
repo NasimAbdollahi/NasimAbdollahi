@@ -5,6 +5,8 @@ My name is Nasim,
 
 🧬 I work with two amazing teams at UofT and Cyclics Inc. on using Graph Convolution Networks for protein function prediction. 
 
+🌐 visit my online portfolio: https://nasimabdollahi.github.io/
+
 <!-- 🎨 I love art! 
  🏊🏼‍♀️ I swim!-->
 
