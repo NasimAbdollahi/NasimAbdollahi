@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Nasim, 
 
-👩🏻‍💻 I’m currently a post-doctoral fellow at University of Toronto and a Machine Learning Research Intern at Cyclica Inc. 
+👩🏻‍💻 I’m currently a Post-doctoral Fellow at University of Toronto and a Machine Learning Research Intern at Cyclica Inc. 
 
 🧬 I work with two amazing teams at UofT and Cyclics Inc. on using Graph Convolution Networks for protein function prediction. 
 
