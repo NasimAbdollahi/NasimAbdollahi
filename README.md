@@ -1,9 +1,10 @@
 ### Hi there 👋
-My name is Nasim, 
 
-👩🏻‍💻 I’m currently a Post-doctoral Fellow at University of Toronto and a Machine Learning Research Intern at Cyclica Inc. 
+My name is Nasim,
 
-🧬 I work with two amazing teams at UofT and Cyclics Inc. on using Graph Convolution Networks for protein function prediction. 
+👩🏻‍💻 I’m currently a Staff Scientist – ML Specialist at the Acceleration Consortium, University of Toronto, where we develop self-driving laboratories to accelerate molecule and material discovery.
+
+🧬 I specialize in deep learning, active learning, graph neural networks, and generative models, with a focus on multimodal and multi-omics data integration across biomedical imaging, structural biology, and drug discovery. At the Acceleration Consortium, my main focus is on drug design and formulation development.
 
 🌐 visit my online portfolio: https://nasimabdollahi.github.io/
 
